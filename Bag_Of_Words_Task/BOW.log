@@ -1,0 +1,331 @@
+2022-02-24 22:43:13,906 INFO get_words function is called to extract words from given file
+2022-02-24 22:43:13,906 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:43:13,909 INFO Data from the file is red successfully
+2022-02-24 22:43:13,927 INFO Each record from file is seperated as an individual string
+2022-02-24 22:43:14,376 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:43:14,396 INFO get_words function is called to extract words from given file
+2022-02-24 22:43:14,397 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:43:14,398 INFO Data from the file is red successfully
+2022-02-24 22:43:14,406 INFO Each record from file is seperated as an individual string
+2022-02-24 22:43:14,883 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:43:14,917 INFO get_words function is called to extract words from given file
+2022-02-24 22:43:14,919 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:43:14,919 INFO Data from the file is red successfully
+2022-02-24 22:43:14,920 INFO Each record from file is seperated as an individual string
+2022-02-24 22:43:14,997 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:43:15,001 INFO get_words function is called to extract words from given file
+2022-02-24 22:43:15,002 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:43:15,002 INFO Data from the file is red successfully
+2022-02-24 22:43:15,003 INFO Each record from file is seperated as an individual string
+2022-02-24 22:43:15,027 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:43:15,031 INFO get_words function is called to extract words from given file
+2022-02-24 22:43:15,032 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:43:15,032 INFO Data from the file is red successfully
+2022-02-24 22:43:15,034 INFO Each record from file is seperated as an individual string
+2022-02-24 22:43:15,178 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:46:02,629 INFO get_words function is called to extract words from given file
+2022-02-24 22:46:02,631 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:46:02,635 INFO Data from the file is red successfully
+2022-02-24 22:46:02,658 INFO Each record from file is seperated as an individual string
+2022-02-24 22:46:03,164 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:46:09,278 INFO get_words function is called to extract words from given file
+2022-02-24 22:46:09,279 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:46:09,281 INFO Data from the file is red successfully
+2022-02-24 22:46:09,293 INFO Each record from file is seperated as an individual string
+2022-02-24 22:46:09,730 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:46:14,525 INFO get_words function is called to extract words from given file
+2022-02-24 22:46:14,527 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:46:14,527 INFO Data from the file is red successfully
+2022-02-24 22:46:14,528 INFO Each record from file is seperated as an individual string
+2022-02-24 22:46:14,573 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:46:19,168 INFO get_words function is called to extract words from given file
+2022-02-24 22:46:19,171 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:46:19,172 INFO Data from the file is red successfully
+2022-02-24 22:46:19,172 INFO Each record from file is seperated as an individual string
+2022-02-24 22:46:19,211 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:46:23,043 INFO get_words function is called to extract words from given file
+2022-02-24 22:46:23,045 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 22:46:23,046 INFO Data from the file is red successfully
+2022-02-24 22:46:23,048 INFO Each record from file is seperated as an individual string
+2022-02-24 22:46:23,161 INFO Each individual string is checked and words are extracted from file
+2022-02-24 22:51:25,647 INFO count_occurance function is called
+2022-02-24 22:51:25,689 INFO Initialized all words in dictonary with count 0
+2022-02-24 22:51:25,721 INFO Updated the count of every word in file
+2022-02-24 22:51:25,772 INFO Converted word counts into touples and updated in list
+2022-02-24 22:51:32,491 INFO count_occurance function is called
+2022-02-24 22:51:32,519 INFO Initialized all words in dictonary with count 0
+2022-02-24 22:51:32,539 INFO Updated the count of every word in file
+2022-02-24 22:51:32,570 INFO Converted word counts into touples and updated in list
+2022-02-24 22:51:37,099 INFO count_occurance function is called
+2022-02-24 22:51:37,102 INFO Initialized all words in dictonary with count 0
+2022-02-24 22:51:37,104 INFO Updated the count of every word in file
+2022-02-24 22:51:37,107 INFO Converted word counts into touples and updated in list
+2022-02-24 22:51:40,600 INFO count_occurance function is called
+2022-02-24 22:51:40,601 INFO Initialized all words in dictonary with count 0
+2022-02-24 22:51:40,602 INFO Updated the count of every word in file
+2022-02-24 22:51:40,606 INFO Converted word counts into touples and updated in list
+2022-02-24 22:51:44,325 INFO count_occurance function is called
+2022-02-24 22:51:44,330 INFO Initialized all words in dictonary with count 0
+2022-02-24 22:51:44,336 INFO Updated the count of every word in file
+2022-02-24 22:51:44,344 INFO Converted word counts into touples and updated in list
+2022-02-24 22:57:28,595 INFO first_letter_occurances is called
+2022-02-24 22:57:28,595 INFO All character's occurances are initialised to zero
+2022-02-24 22:57:28,642 INFO All character's occurances counts are updated
+2022-02-24 22:57:28,642 INFO Occurance values of all characters are added in touple form
+2022-02-24 22:58:36,612 INFO first_letter_occurances is called
+2022-02-24 22:58:36,612 INFO All character's occurances are initialised to zero
+2022-02-24 22:58:36,645 INFO All character's occurances counts are updated
+2022-02-24 22:58:36,645 INFO Occurance values of all characters are added in touple form
+2022-02-24 22:58:51,530 INFO first_letter_occurances is called
+2022-02-24 22:58:51,530 INFO All character's occurances are initialised to zero
+2022-02-24 22:58:51,537 INFO All character's occurances counts are updated
+2022-02-24 22:58:51,537 INFO Occurance values of all characters are added in touple form
+2022-02-24 22:59:04,403 INFO first_letter_occurances is called
+2022-02-24 22:59:04,403 INFO All character's occurances are initialised to zero
+2022-02-24 22:59:04,407 INFO All character's occurances counts are updated
+2022-02-24 22:59:04,407 INFO Occurance values of all characters are added in touple form
+2022-02-24 22:59:19,386 INFO first_letter_occurances is called
+2022-02-24 22:59:19,387 INFO All character's occurances are initialised to zero
+2022-02-24 22:59:19,397 INFO All character's occurances counts are updated
+2022-02-24 22:59:19,397 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:01:17,533 INFO all_words is called
+2022-02-24 23:01:17,534 INFO All addresses are seperated
+2022-02-24 23:01:17,534 INFO get_words function is called to extract words from given file
+2022-02-24 23:01:17,534 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:01:17,537 INFO Data from the file is red successfully
+2022-02-24 23:01:17,553 INFO Each record from file is seperated as an individual string
+2022-02-24 23:01:18,044 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:01:18,048 INFO get_words function is called to extract words from given file
+2022-02-24 23:01:18,048 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:01:18,049 INFO Data from the file is red successfully
+2022-02-24 23:01:18,056 INFO Each record from file is seperated as an individual string
+2022-02-24 23:01:18,495 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:01:18,498 INFO get_words function is called to extract words from given file
+2022-02-24 23:01:18,499 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:01:18,499 INFO Data from the file is red successfully
+2022-02-24 23:01:18,500 INFO Each record from file is seperated as an individual string
+2022-02-24 23:01:18,531 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:01:18,532 INFO get_words function is called to extract words from given file
+2022-02-24 23:01:18,533 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:01:18,533 INFO Data from the file is red successfully
+2022-02-24 23:01:18,533 INFO Each record from file is seperated as an individual string
+2022-02-24 23:01:18,563 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:01:18,563 INFO get_words function is called to extract words from given file
+2022-02-24 23:01:18,564 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:01:18,564 INFO Data from the file is red successfully
+2022-02-24 23:01:18,566 INFO Each record from file is seperated as an individual string
+2022-02-24 23:01:18,657 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:01:18,658 INFO Unique words are identified from each file seperatly
+2022-02-24 23:01:18,722 INFO Unique words are identified from all files
+2022-02-24 23:03:49,149 INFO all_words is called
+2022-02-24 23:03:49,150 INFO All addresses are seperated
+2022-02-24 23:03:49,150 INFO get_words function is called to extract words from given file
+2022-02-24 23:03:49,151 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:03:49,155 INFO Data from the file is red successfully
+2022-02-24 23:03:49,171 INFO Each record from file is seperated as an individual string
+2022-02-24 23:03:49,644 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:03:49,648 INFO get_words function is called to extract words from given file
+2022-02-24 23:03:49,650 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:03:49,651 INFO Data from the file is red successfully
+2022-02-24 23:03:49,658 INFO Each record from file is seperated as an individual string
+2022-02-24 23:03:50,099 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:03:50,102 INFO get_words function is called to extract words from given file
+2022-02-24 23:03:50,103 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:03:50,103 INFO Data from the file is red successfully
+2022-02-24 23:03:50,104 INFO Each record from file is seperated as an individual string
+2022-02-24 23:03:50,134 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:03:50,134 INFO get_words function is called to extract words from given file
+2022-02-24 23:03:50,135 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:03:50,135 INFO Data from the file is red successfully
+2022-02-24 23:03:50,135 INFO Each record from file is seperated as an individual string
+2022-02-24 23:03:50,153 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:03:50,153 INFO get_words function is called to extract words from given file
+2022-02-24 23:03:50,154 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:03:50,154 INFO Data from the file is red successfully
+2022-02-24 23:03:50,155 INFO Each record from file is seperated as an individual string
+2022-02-24 23:03:50,238 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:03:50,239 INFO Unique words are identified from each file seperatly
+2022-02-24 23:03:50,300 INFO Unique words are identified from all files
+2022-02-24 23:06:00,173 INFO all_words is called
+2022-02-24 23:06:00,173 INFO All addresses are seperated
+2022-02-24 23:06:00,173 INFO get_words function is called to extract words from given file
+2022-02-24 23:06:00,174 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:06:00,178 INFO Data from the file is red successfully
+2022-02-24 23:06:00,192 INFO Each record from file is seperated as an individual string
+2022-02-24 23:06:00,647 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:06:00,651 INFO get_words function is called to extract words from given file
+2022-02-24 23:06:00,651 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:06:00,653 INFO Data from the file is red successfully
+2022-02-24 23:06:00,659 INFO Each record from file is seperated as an individual string
+2022-02-24 23:06:01,091 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:06:01,094 INFO get_words function is called to extract words from given file
+2022-02-24 23:06:01,095 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:06:01,095 INFO Data from the file is red successfully
+2022-02-24 23:06:01,096 INFO Each record from file is seperated as an individual string
+2022-02-24 23:06:01,126 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:06:01,126 INFO get_words function is called to extract words from given file
+2022-02-24 23:06:01,127 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:06:01,127 INFO Data from the file is red successfully
+2022-02-24 23:06:01,127 INFO Each record from file is seperated as an individual string
+2022-02-24 23:06:01,144 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:06:01,144 INFO get_words function is called to extract words from given file
+2022-02-24 23:06:01,145 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:06:01,145 INFO Data from the file is red successfully
+2022-02-24 23:06:01,147 INFO Each record from file is seperated as an individual string
+2022-02-24 23:06:01,222 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:06:01,223 INFO Unique words are identified from each file seperatly
+2022-02-24 23:06:01,288 INFO Unique words are identified from all files
+2022-02-24 23:10:16,416 INFO all_words is called
+2022-02-24 23:10:16,416 INFO All addresses are seperated
+2022-02-24 23:10:16,417 INFO get_words function is called to extract words from given file
+2022-02-24 23:10:16,419 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:10:16,422 INFO Data from the file is red successfully
+2022-02-24 23:10:16,436 INFO Each record from file is seperated as an individual string
+2022-02-24 23:10:16,891 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:10:16,895 INFO get_words function is called to extract words from given file
+2022-02-24 23:10:16,896 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:10:16,897 INFO Data from the file is red successfully
+2022-02-24 23:10:16,903 INFO Each record from file is seperated as an individual string
+2022-02-24 23:10:17,347 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:10:17,350 INFO get_words function is called to extract words from given file
+2022-02-24 23:10:17,351 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:10:17,351 INFO Data from the file is red successfully
+2022-02-24 23:10:17,351 INFO Each record from file is seperated as an individual string
+2022-02-24 23:10:17,382 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:10:17,382 INFO get_words function is called to extract words from given file
+2022-02-24 23:10:17,383 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:10:17,383 INFO Data from the file is red successfully
+2022-02-24 23:10:17,383 INFO Each record from file is seperated as an individual string
+2022-02-24 23:10:17,400 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:10:17,400 INFO get_words function is called to extract words from given file
+2022-02-24 23:10:17,401 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:10:17,401 INFO Data from the file is red successfully
+2022-02-24 23:10:17,402 INFO Each record from file is seperated as an individual string
+2022-02-24 23:10:17,480 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:10:17,481 INFO Unique words are identified from each file seperatly
+2022-02-24 23:10:17,539 INFO Unique words are identified from all files
+2022-02-24 23:11:39,963 INFO all_words is called
+2022-02-24 23:11:39,964 INFO All addresses are seperated
+2022-02-24 23:11:39,964 INFO get_words function is called to extract words from given file
+2022-02-24 23:11:39,966 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:11:39,969 INFO Data from the file is red successfully
+2022-02-24 23:11:39,989 INFO Each record from file is seperated as an individual string
+2022-02-24 23:11:40,449 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:11:40,453 INFO get_words function is called to extract words from given file
+2022-02-24 23:11:40,454 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:11:40,455 INFO Data from the file is red successfully
+2022-02-24 23:11:40,462 INFO Each record from file is seperated as an individual string
+2022-02-24 23:11:40,901 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:11:40,904 INFO get_words function is called to extract words from given file
+2022-02-24 23:11:40,904 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:11:40,905 INFO Data from the file is red successfully
+2022-02-24 23:11:40,906 INFO Each record from file is seperated as an individual string
+2022-02-24 23:11:40,941 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:11:40,942 INFO get_words function is called to extract words from given file
+2022-02-24 23:11:40,942 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:11:40,942 INFO Data from the file is red successfully
+2022-02-24 23:11:40,943 INFO Each record from file is seperated as an individual string
+2022-02-24 23:11:40,961 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:11:40,961 INFO get_words function is called to extract words from given file
+2022-02-24 23:11:40,962 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:11:40,962 INFO Data from the file is red successfully
+2022-02-24 23:11:40,964 INFO Each record from file is seperated as an individual string
+2022-02-24 23:11:41,042 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:11:41,043 INFO Unique words are identified from each file seperatly
+2022-02-24 23:11:41,102 INFO Unique words are identified from all files
+2022-02-24 23:13:37,481 INFO get_words function is called to extract words from given file
+2022-02-24 23:13:37,482 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:13:37,485 INFO Data from the file is red successfully
+2022-02-24 23:13:37,502 INFO Each record from file is seperated as an individual string
+2022-02-24 23:13:37,944 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:13:43,216 INFO get_words function is called to extract words from given file
+2022-02-24 23:13:43,218 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:13:43,220 INFO Data from the file is red successfully
+2022-02-24 23:13:43,234 INFO Each record from file is seperated as an individual string
+2022-02-24 23:13:43,652 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:13:48,855 INFO get_words function is called to extract words from given file
+2022-02-24 23:13:48,856 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:13:48,857 INFO Data from the file is red successfully
+2022-02-24 23:13:48,858 INFO Each record from file is seperated as an individual string
+2022-02-24 23:13:48,903 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:13:52,825 INFO get_words function is called to extract words from given file
+2022-02-24 23:13:52,826 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:13:52,826 INFO Data from the file is red successfully
+2022-02-24 23:13:52,827 INFO Each record from file is seperated as an individual string
+2022-02-24 23:13:52,854 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:13:57,136 INFO get_words function is called to extract words from given file
+2022-02-24 23:13:57,139 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:13:57,139 INFO Data from the file is red successfully
+2022-02-24 23:13:57,142 INFO Each record from file is seperated as an individual string
+2022-02-24 23:13:57,229 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:01,202 INFO count_occurance function is called
+2022-02-24 23:14:01,243 INFO Initialized all words in dictonary with count 0
+2022-02-24 23:14:01,268 INFO Updated the count of every word in file
+2022-02-24 23:14:01,309 INFO Converted word counts into touples and updated in list
+2022-02-24 23:14:06,383 INFO count_occurance function is called
+2022-02-24 23:14:06,408 INFO Initialized all words in dictonary with count 0
+2022-02-24 23:14:06,435 INFO Updated the count of every word in file
+2022-02-24 23:14:06,462 INFO Converted word counts into touples and updated in list
+2022-02-24 23:14:11,582 INFO count_occurance function is called
+2022-02-24 23:14:11,584 INFO Initialized all words in dictonary with count 0
+2022-02-24 23:14:11,586 INFO Updated the count of every word in file
+2022-02-24 23:14:11,590 INFO Converted word counts into touples and updated in list
+2022-02-24 23:14:27,433 INFO count_occurance function is called
+2022-02-24 23:14:27,434 INFO Initialized all words in dictonary with count 0
+2022-02-24 23:14:27,436 INFO Updated the count of every word in file
+2022-02-24 23:14:27,439 INFO Converted word counts into touples and updated in list
+2022-02-24 23:14:32,284 INFO count_occurance function is called
+2022-02-24 23:14:32,289 INFO Initialized all words in dictonary with count 0
+2022-02-24 23:14:32,297 INFO Updated the count of every word in file
+2022-02-24 23:14:32,308 INFO Converted word counts into touples and updated in list
+2022-02-24 23:14:40,242 INFO first_letter_occurances is called
+2022-02-24 23:14:40,243 INFO All character's occurances are initialised to zero
+2022-02-24 23:14:40,287 INFO All character's occurances counts are updated
+2022-02-24 23:14:40,287 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:14:44,113 INFO first_letter_occurances is called
+2022-02-24 23:14:44,114 INFO All character's occurances are initialised to zero
+2022-02-24 23:14:44,156 INFO All character's occurances counts are updated
+2022-02-24 23:14:44,156 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:14:47,632 INFO first_letter_occurances is called
+2022-02-24 23:14:47,633 INFO All character's occurances are initialised to zero
+2022-02-24 23:14:47,639 INFO All character's occurances counts are updated
+2022-02-24 23:14:47,639 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:14:50,245 INFO first_letter_occurances is called
+2022-02-24 23:14:50,246 INFO All character's occurances are initialised to zero
+2022-02-24 23:14:50,250 INFO All character's occurances counts are updated
+2022-02-24 23:14:50,250 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:14:54,077 INFO first_letter_occurances is called
+2022-02-24 23:14:54,077 INFO All character's occurances are initialised to zero
+2022-02-24 23:14:54,092 INFO All character's occurances counts are updated
+2022-02-24 23:14:54,092 INFO Occurance values of all characters are added in touple form
+2022-02-24 23:14:57,925 INFO all_words is called
+2022-02-24 23:14:57,925 INFO All addresses are seperated
+2022-02-24 23:14:57,925 INFO get_words function is called to extract words from given file
+2022-02-24 23:14:57,926 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:14:57,930 INFO Data from the file is red successfully
+2022-02-24 23:14:57,945 INFO Each record from file is seperated as an individual string
+2022-02-24 23:14:58,390 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:58,394 INFO get_words function is called to extract words from given file
+2022-02-24 23:14:58,395 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:14:58,397 INFO Data from the file is red successfully
+2022-02-24 23:14:58,404 INFO Each record from file is seperated as an individual string
+2022-02-24 23:14:58,830 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:58,833 INFO get_words function is called to extract words from given file
+2022-02-24 23:14:58,834 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:14:58,834 INFO Data from the file is red successfully
+2022-02-24 23:14:58,835 INFO Each record from file is seperated as an individual string
+2022-02-24 23:14:58,867 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:58,868 INFO get_words function is called to extract words from given file
+2022-02-24 23:14:58,868 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:14:58,868 INFO Data from the file is red successfully
+2022-02-24 23:14:58,869 INFO Each record from file is seperated as an individual string
+2022-02-24 23:14:58,889 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:58,889 INFO get_words function is called to extract words from given file
+2022-02-24 23:14:58,890 INFO File at given address is opened in r+ mode with utf-8 coding
+2022-02-24 23:14:58,890 INFO Data from the file is red successfully
+2022-02-24 23:14:58,892 INFO Each record from file is seperated as an individual string
+2022-02-24 23:14:58,960 INFO Each individual string is checked and words are extracted from file
+2022-02-24 23:14:58,961 INFO Unique words are identified from each file seperatly
+2022-02-24 23:14:59,024 INFO Unique words are identified from all files
+2022-02-24 23:14:59,227 INFO Database & table created
+2022-02-24 23:15:00,284 INFO Words added in database
